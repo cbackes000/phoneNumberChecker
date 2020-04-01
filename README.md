@@ -9,10 +9,5 @@ To-do:
 
 add check for numbers NOT starting with 1
 
-somehow check for () and - properly based on entries (ex: (913)-192-0918 would be valid)
+somehow check for () and - properly based on entries for example: (913)-192-0918 would be valid
 
-blah blah blah
-
-hello cox
-
-hello shmikhail
